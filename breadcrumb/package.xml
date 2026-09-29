@@ -4,8 +4,9 @@
   <name>breadcrumb</name>
   <version>0.0.0</version>
   <description>A ROS2 graph static analysis tool that works with jig and clingwrap.</description>
-  <maintainer email="info@greenforgelabs.com.au">Alistair English</maintainer>
+  <maintainer email="geoff@sparkautonomy.com">Geoff Sokoll</maintainer>
   <license>Apache 2.0</license>
+  <author>Alistair English</author>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
   <buildtool_depend>ament_cmake_python</buildtool_depend>
